@@ -9,5 +9,5 @@ server.use(routes)
 const PORTA = 3000
 
 server.listen(PORTA,()=>{
-    console.log("Servidor executando na porta "+PORTA)
+    console.log("Servidor Online na porta "+PORTA)
 })
